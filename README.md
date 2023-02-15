@@ -12,6 +12,8 @@ Currently not working:
 
 -Mic --Same as above.
 
+-SDCard Slot
+
 Issues:
 
 -Wireless is not the fastest.

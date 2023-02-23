@@ -6,8 +6,6 @@ Lastly, make sure to add the Monterey recovery using Dortania’s OpenCore guide
 
 Currently not working:
 
--Keyboard backlight. --Followed the article from meghan06 but it failed to load.
-
 -Audio --Unsupported codec at time of writing.
 
 -Mic --Same as above.
